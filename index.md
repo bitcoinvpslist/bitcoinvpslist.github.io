@@ -4,6 +4,6 @@
 
 VPS | $/M | $/Y | Cryptocurrency
 --- | --- | --- | ---
-[Ishosting](https://btc-vps.com/go/ishosting) | $5 | $60 | Bitcoin, USDT, Monero
+[Ishosting](https://btc-vps.com/bitcoin-vps/ishosting) | $5 | $60 | Bitcoin, USDT, Monero
 
 
